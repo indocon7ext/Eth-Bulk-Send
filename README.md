@@ -88,13 +88,6 @@ None
 
 ---
 
-## 💡 Future Improvements
-- ✅ Batch processing for faster transactions  
-- ✅ Improved error handling  
-- ⏳ Web interface for easier use  
-
----
-
 ### **🔗 Contribute**
 Feel free to submit a pull request or open an issue if you find bugs or want to improve this script!
 
